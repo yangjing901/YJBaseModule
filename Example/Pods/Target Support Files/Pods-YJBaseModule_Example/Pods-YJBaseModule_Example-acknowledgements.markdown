@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## YJBaseModule
+## YJLibBaseModule
 
 Copyright (c) 2019 yangjing901@qq.com <yangjing901@qq.com>
 

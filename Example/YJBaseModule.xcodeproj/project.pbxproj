@@ -359,11 +359,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-YJBaseModule_Example/Pods-YJBaseModule_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/YJBaseModule/YJBaseModule.framework",
+				"${BUILT_PRODUCTS_DIR}/YJLibBaseModule/YJLibBaseModule.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YJBaseModule.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YJLibBaseModule.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

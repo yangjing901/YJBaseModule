@@ -27,6 +27,6 @@
 #import "YJMacro.h"
 #import "NSString+YJBaseModule.h"
 
-FOUNDATION_EXPORT double YJBaseModuleVersionNumber;
-FOUNDATION_EXPORT const unsigned char YJBaseModuleVersionString[];
+FOUNDATION_EXPORT double YJLibBaseModuleVersionNumber;
+FOUNDATION_EXPORT const unsigned char YJLibBaseModuleVersionString[];
 

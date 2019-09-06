@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'YJBaseModule'
+  s.name             = 'YJLibBaseModule'
   s.version          = '0.0.1'
-  s.summary          = 'YJBaseModule.'
+  s.summary          = 'YJLibBaseModule.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,20 +21,20 @@ Pod::Spec.new do |s|
 							BaseModule of YJLib/YJUIKit, includes : Category, Macro
                        DESC
 
-  s.homepage         = 'https://github.com/yangjing901@qq.com/YJBaseModule'
+  s.homepage         = 'https://github.com/yangjing901/YJBaseModule.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yangjing901@qq.com' => 'yangjing901@qq.com' }
-  s.source           = { :git => 'https://github.com/yangjing901@qq.com/YJBaseModule.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/yangjing901/YJBaseModule.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.subspec 'Core' do |core|
-  	core.source_files = 'YJBaseModule/Classes/**/*'
+  	core.source_files = 'YJLibBaseModule/Classes/**/*'
   end
 
-  s.resource = 'YJBaseModule/Assets/YJBaseModuleBundle.bundle'
+  s.resource = 'YJLibBaseModule/Assets/YJBaseModuleBundle.bundle'
   
   # s.resource_bundles = {
   #   'YJBaseModule' => ['YJBaseModule/Assets/*.png']
