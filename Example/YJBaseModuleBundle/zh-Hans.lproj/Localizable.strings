@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  YJBaseModule
+
+  Created by Yang on 2019/9/6.
+  Copyright © 2019 yangjing901@qq.com. All rights reserved.
+*/
+
+"YJ_Base_未知大陆" = "未知大陆";
+
+"YJ_Base_中文" = "中文";
+"YJ_Base_英文" = "英文";
+"YJ_Base_韩文" = "韩文";
+"YJ_Base_日文" = "日文";
+"YJ_Base_越南语" = "越南语";
+"YJ_Base_俄语" = "俄语";
+"YJ_Base_西班牙语" = "西班牙语";
+"YJ_Base_法语" = "法语";
+"YJ_Base_德语" = "德语";
+
+"YJ_Base_刚刚" = "刚刚";
+"YJ_Base_%ld分钟之前2" = "%ld分钟之前";
+"YJ_Base_%ld分钟之前" = "%ld分钟之前";
+"YJ_Base_%ld小时之前" = "%ld小时之前";
+"YJ_Base_%ld小时之前2" = "%ld小时之前";
+"YJ_Base_%ld天之前" = "%ld天之前";
+"YJ_Base_%ld天之前2" = "%ld天之前";
+
+"YJ_Base_分钟2" = "分钟";
+"YJ_Base_分钟" = "分钟";
+"YJ_Base_小时2" = "小时";
+"YJ_Base_小时" = "小时";
+"YJ_Base_天2" = "天";
+"YJ_Base_天" = "天";
