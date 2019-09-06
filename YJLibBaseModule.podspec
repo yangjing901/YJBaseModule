@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint YJBaseModule.podspec' to ensure this is a
+# Be sure to run `pod lib lint YJLibBaseModule.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YJLibBaseModule'
-  s.version          = '0.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'YJLibBaseModule.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 							BaseModule of YJLib/YJUIKit, includes : Category, Macro
                        DESC
 
-  s.homepage         = 'https://github.com/yangjing901/YJBaseModule.git'
+  s.homepage         = 'https://github.com/yangjing901/YJLibBaseModule.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yangjing901@qq.com' => 'yangjing901@qq.com' }
-  s.source           = { :git => 'https://github.com/yangjing901/YJBaseModule.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/yangjing901/YJLibBaseModule.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -34,10 +34,10 @@ Pod::Spec.new do |s|
   	core.source_files = 'YJLibBaseModule/Classes/**/*'
   end
 
-  s.resource = 'YJLibBaseModule/Assets/YJBaseModuleBundle.bundle'
+  s.resource = 'YJLibBaseModule/Assets/YJLibBaseModuleBundle.bundle'
   
   # s.resource_bundles = {
-  #   'YJBaseModule' => ['YJBaseModule/Assets/*.png']
+  #   'YJLibBaseModule' => ['YJLibBaseModule/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

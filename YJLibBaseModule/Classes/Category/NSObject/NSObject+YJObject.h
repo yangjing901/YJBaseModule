@@ -1,6 +1,6 @@
 //
 //  NSObject+YJObject.h
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by Yang on 2019/8/20.
 //

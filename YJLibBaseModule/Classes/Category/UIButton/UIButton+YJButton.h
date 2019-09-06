@@ -1,6 +1,6 @@
 //
 //  UIButton+YJButton.h
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by Yang on 2019/5/7.
 //

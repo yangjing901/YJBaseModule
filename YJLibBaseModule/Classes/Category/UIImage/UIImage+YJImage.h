@@ -1,12 +1,12 @@
 //
 //  UIImage+YJImage.h
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by Yang on 2019/5/17.
 //
 
 #import <UIKit/UIKit.h>
-#import <YJBaseModule/YJBaseStatics.h>
+#import <YJLibBaseModule/YJBaseStatics.h>
 
 @interface UIImage (YJImage)
 

@@ -2,10 +2,10 @@ use_frameworks!
 
 platform :ios, '8.0'
 
-target 'YJBaseModule_Example' do
+target 'YJLibBaseModule_Example' do
   pod 'YJLibBaseModule', :path => '../'
 
-  target 'YJBaseModule_Tests' do
+  target 'YJLibBaseModule_Tests' do
     inherit! :search_paths
 
     

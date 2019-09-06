@@ -1,6 +1,6 @@
 //
 //  NSString+YJEncode.h
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by 杨警 on 2019/6/21.
 //

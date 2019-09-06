@@ -1,6 +1,6 @@
 //
 //  UIColor+YJColor.m
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by Yang on 2019/5/7.
 //

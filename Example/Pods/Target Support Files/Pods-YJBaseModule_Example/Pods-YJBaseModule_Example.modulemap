@@ -1,5 +1,5 @@
-framework module Pods_YJBaseModule_Example {
-  umbrella header "Pods-YJBaseModule_Example-umbrella.h"
+framework module Pods_YJLibBaseModule_Example {
+  umbrella header "Pods-YJLibBaseModule_Example-umbrella.h"
 
   export *
   module * { export * }

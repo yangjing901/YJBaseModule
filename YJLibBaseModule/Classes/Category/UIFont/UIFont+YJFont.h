@@ -1,6 +1,6 @@
 //
 //  UIFont+YJFont.h
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by Yang on 2019/5/6.
 //  Copyright © 2019 WORDOOR. All rights reserved.

@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_YJBaseModule_ExampleVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_YJBaseModule_ExampleVersionString[];
+FOUNDATION_EXPORT double Pods_YJLibBaseModule_ExampleVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_YJLibBaseModule_ExampleVersionString[];
 

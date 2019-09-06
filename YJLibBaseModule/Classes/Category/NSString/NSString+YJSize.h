@@ -1,6 +1,6 @@
 //
 //  NSString+YJSize.h
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by Yang on 2019/5/16.
 //

@@ -1,13 +1,13 @@
 //
 //  NSString+YJString.h
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by Yang on 2019/5/16.
 //
 
 #import <Foundation/Foundation.h>
-#import <YJBaseModule/YJBaseStatics.h>
-#import <YJBaseModule/NSString+YJLocalized.h>
+#import <YJLibBaseModule/YJBaseStatics.h>
+#import <YJLibBaseModule/NSString+YJLocalized.h>
 
 @interface NSString (YJString)
 

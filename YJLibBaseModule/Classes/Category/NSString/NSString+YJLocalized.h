@@ -1,12 +1,12 @@
 //
 //  NSString+YJLocalized.h
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by Yang on 2019/5/7.
 //
 
 #import <Foundation/Foundation.h>
-#import <YJBaseModule/YJBaseStatics.h>
+#import <YJLibBaseModule/YJBaseStatics.h>
 
 @interface NSString (YJLocalized)
 

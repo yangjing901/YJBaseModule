@@ -1,6 +1,6 @@
 {
   "name": "YJLibBaseModule",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "summary": "YJLibBaseModule.",
   "description": "BaseModule of YJLib/YJUIKit, includes : Category, Macro",
   "homepage": "https://github.com/yangjing901/YJBaseModule.git",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/yangjing901/YJBaseModule.git",
-    "tag": "0.0.1"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "8.0"

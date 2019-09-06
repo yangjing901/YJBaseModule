@@ -1,37 +1,37 @@
 //
-//  YJBaseModule.h
+//  YJLibBaseModule.h
 //  Pods
 //
 //  Created by 杨警 on 2019/5/27.
 //
 
-#ifndef YJBaseModule_h
-#define YJBaseModule_h
+#ifndef YJLibBaseModule_h
+#define YJLibBaseModule_h
 
 /************************ base ****************************/
-#import <YJBaseModule/YJMacro.h>
-#import <YJBaseModule/YJBaseStatics.h>
+#import <YJLibBaseModule/YJMacro.h>
+#import <YJLibBaseModule/YJBaseStatics.h>
 
 /************************ category ****************************/
-#import <YJBaseModule/NSObject+YJObject.h>
+#import <YJLibBaseModule/NSObject+YJObject.h>
 
-#import <YJBaseModule/UIColor+YJColor.h>
+#import <YJLibBaseModule/UIColor+YJColor.h>
 
-#import <YJBaseModule/UIImage+YJImage.h>
+#import <YJLibBaseModule/UIImage+YJImage.h>
 
-#import <YJBaseModule/NSDictionary+YJDictionary.h>
+#import <YJLibBaseModule/NSDictionary+YJDictionary.h>
 
-#import <YJBaseModule/UIFont+YJFont.h>
+#import <YJLibBaseModule/UIFont+YJFont.h>
 
-#import <YJBaseModule/UIButton+YJButton.h>
-#import <YJBaseModule/UIButton+YJPosition.h>
+#import <YJLibBaseModule/UIButton+YJButton.h>
+#import <YJLibBaseModule/UIButton+YJPosition.h>
 
-#import <YJBaseModule/UIView+YJView.h>
+#import <YJLibBaseModule/UIView+YJView.h>
 
-#import <YJBaseModule/NSString+YJLocalized.h>
-#import <YJBaseModule/NSString+YJSize.h>
-#import <YJBaseModule/NSString+YJString.h>
-#import <YJBaseModule/NSString+YJEncode.h>
+#import <YJLibBaseModule/NSString+YJLocalized.h>
+#import <YJLibBaseModule/NSString+YJSize.h>
+#import <YJLibBaseModule/NSString+YJString.h>
+#import <YJLibBaseModule/NSString+YJEncode.h>
 
 
-#endif /* YJBaseModule_h */
+#endif /* YJLibBaseModule_h */

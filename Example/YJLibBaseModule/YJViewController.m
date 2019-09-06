@@ -1,13 +1,13 @@
 //
 //  YJViewController.m
-//  YJBaseModule
+//  YJLibBaseModule
 //
 //  Created by yangjing901@qq.com on 09/06/2019.
 //  Copyright (c) 2019 yangjing901@qq.com. All rights reserved.
 //
 
 #import "YJViewController.h"
-#import <YJBaseModule/YJBaseModule.h>
+#import <YJLibBaseModule/YJBaseModule.h>
 
 @interface YJViewController ()
 

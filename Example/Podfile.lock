@@ -1,7 +1,7 @@
 PODS:
-  - YJLibBaseModule (0.0.1):
-    - YJLibBaseModule/Core (= 0.0.1)
-  - YJLibBaseModule/Core (0.0.1)
+  - YJLibBaseModule (1.0.0):
+    - YJLibBaseModule/Core (= 1.0.0)
+  - YJLibBaseModule/Core (1.0.0)
 
 DEPENDENCIES:
   - YJLibBaseModule (from `../`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YJLibBaseModule: d8934217903679b311e15716a6ec7d9fbe1cad1b
+  YJLibBaseModule: cec2f384da02972d0bc8e529d39f49480784c10f
 
 PODFILE CHECKSUM: b3ae21f9ac4e4502a80696024c46c03ce275aae7
 
